@@ -2,7 +2,7 @@
 
 Me going through the free online class
 [Machine Learning](https://www.coursera.org/course/ml) taught by
-[Andrew Conway](http://cs.stanford.edu/people/ang/)
+[Andrew Ng](http://cs.stanford.edu/people/ang/)
 of [Stanford University](http://stanford.edu/).
 
 ## Author
